@@ -1,5 +1,0 @@
-<script>
-myfunction(){
-    
-}
-</script>
